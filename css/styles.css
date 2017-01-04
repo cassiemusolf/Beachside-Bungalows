@@ -1,24 +1,24 @@
 h1 {
   text-align: center;
-  font-family: cursive;
-  font-size: 40px;
+  font-family: sans-serif;
+  font-size: 60px;
 }
 
 h2 {
-  color: darkgrey;
-  font-family: cursive;
+  color: #512070;
+  font-family: sans-serif;;
   font-size: 25px;
   text-align:center;
   text-decoration: underline;;
 }
 
 body {
-  background-color: #D1F2EB;
+  background-color: #eda3ea;
 }
 
 p {
   font-size: 20px;
-  font-family: cursive;
+  font-family: sans-serif;;
 }
 
 ul {
@@ -29,5 +29,5 @@ ul {
 
 li {
   font-size: 25px;
-  font-family: cursive;
+  font-family: sans-serif;;
 }
